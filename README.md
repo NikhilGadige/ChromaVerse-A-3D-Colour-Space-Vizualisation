@@ -1,5 +1,7 @@
 # ChromaVerse 🌌🎨
 
+🚀 **Live Demo:** [https://chromaverse-3d.netlify.app/](https://chromaverse-3d.netlify.app/)
+
 **ChromaVerse** is a modern, single-page educational web application designed to visualize complex color spaces in interactive 3D. 
 
 Built with React, Three.js, and React Three Fiber, this tool helps students, designers, and developers deeply understand the geometries and mathematical relationships of the **RGB**, **HSI**, and **HSV** color models. The application's 3D geometries and color theory strictly adhere to the definitions found in the classic textbook *"Digital Image Processing" by Gonzalez and Woods*.
